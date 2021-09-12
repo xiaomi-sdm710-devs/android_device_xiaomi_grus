@@ -95,9 +95,5 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     SecureElement
 
-# Sensors
-PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf
-
 # Get non-open-source specific aspects
 $(call inherit-product, vendor/xiaomi/grus/grus-vendor.mk)
