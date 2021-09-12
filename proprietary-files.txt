@@ -1,4 +1,4 @@
-# Device proprietary files - from grus's MIUI package V12.0.5.0.QFBEUXM EEA stable version
+# Unpinned blobs from grus-user 11 RKQ1.200826.002 V12.5.1.0.RFBMIXM release-keys
 
 # ACDB
 vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb
